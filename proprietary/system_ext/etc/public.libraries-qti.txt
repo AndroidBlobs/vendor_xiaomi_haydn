@@ -1,0 +1,7 @@
+libqvrservice_client.qti.so
+libqvrcamera_client.qti.so
+libupdateprof.qti.so
+libthermalclient.qti.so
+libQOC.qti.so
+libdiag_system.qti.so
+libmidtp_jni.qti.so
